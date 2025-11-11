@@ -2,5 +2,3 @@ selenium
 pandas
 webdriver-manager
 openpyxl
-matplotlib
-schedule
